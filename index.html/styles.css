@@ -1,0 +1,22 @@
+h1 {
+  text-align: center;
+  color: blue;
+  background-color:greenyellow;
+  border-style: double
+}
+
+h2 {
+
+  text-align: left;
+  color: rgb(172, 13, 45);
+  background-color:aqua
+  border-style: dotted;
+  border-radius: 0vmax;
+} 
+
+h3 {
+  color:blue;
+  border-style:dotted;
+  background-color: coral;
+
+}
